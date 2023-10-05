@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "320668bf7c1e460b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5543341ab000eb06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c198a3e66d5e13e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a885a6ef2e27856",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b60a99bbcc1873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ccea789dbbd7ec",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c21766803db7f7c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76726d57efd9332e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f998e464b7ab9ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 576.5106964111328
+  },
+  "right": {
+    "id": "66f8011ce2e3f5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5d3cd70f4a09c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375b59f98dc2018e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c14216ec71e22612",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddb0eb1e2e993ffe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f359290b6c5205f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "11009e7a26e7dd33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f48f01e04140806f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "48799120dc0275a3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab61a7e09334d390",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-tweet-to-markdown:Tweet to Markdown": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "48799120dc0275a3",
+  "lastOpenFiles": [
+    "ILLibrary",
+    "Hacking_CyberSec/CyberSec/Cybersecurity for Small Networks A No-Nonsense Guide for the Reasonably Paranoid.epub",
+    "Hacking_CyberSec/Hands on Hacking - Become an Expert at Next Gen Penetration Testing and Purple Teaming.pdf",
+    "Coding/PHP und MySQL für Einsteiger.pdf",
+    "Coding/JavaScript Programmieren für Einsteiger.pdf",
+    "Hacking_CyberSec/Networking/A Complete Guide to Burp Suite.epub",
+    "Hacking_CyberSec/BTFM Blue Team Field Manual.pdf",
+    "Hacking_CyberSec/RTFM Red Team Field Manual v2.pdf",
+    "Hacking_CyberSec/Blue Team Field Manual BTFM.pdf",
+    "Hacking_CyberSec/Hacking Security - Kofler.epub",
+    "OSINT_Intel/Practical Cyber Intelligence.pdf",
+    "Untitled.md",
+    "Untitled 1.md",
+    "ILL/Sources/OSINT Intelligence Basics and Sources.md",
+    "ILL/Sources/Basic OPSEC tips & Tricks for OSINT researchers.md",
+    "Private/Bookmarks UA ILL/Bookmarks UA_ILL.bak_031023.md",
+    "ILL/Sources/Cheat Sheets/OSINT_Companyy_Inverstigation_Checklist.jpg",
+    "github.com/ElevenPaths/FOCA.md",
+    "ILL/Ops/op_DDoS Recon/Op_Lawyers/Notes - Lawyers Russia.md",
+    "ILL/Sources/Tools/bbot RECON Framework/bbot usage example on gpee.ru.md",
+    "ILL/Sources/Tools/bbot RECON Framework/bbot OSINT Framework.md",
+    "ILL/Ops/op_ideas/op_y/op_y note.md",
+    "ILL/Ops/op_ideas/op_x/op x note.md",
+    "ILL/Ops/op_ideas/op_y/test2.md",
+    "ILL/Ops/op_ideas/op_x/test.md",
+    "templates/template - notes header.md",
+    "templates/template - standard notes header_old.md",
+    "ILL/Ops/op_ideas/ILL Mission 1 - oligrachen.ch.md",
+    "ILL/Sources/System/Installing Github cli in Kali.md",
+    "ILL/Sources/System/Kali system setup.md",
+    "ILL/Sources/System/Untitled.md",
+    "asälkdjfölkasdjdf.md",
+    "ILL/Sources/THM/Subdomain Enumeration  - THM.md",
+    "ILL/Sources/THM/WebOSINT - THM.md",
+    "ILL/Sources/THM/Shodan - THM.md",
+    "ILL/Sources/THM/SQL Injection - THM.md",
+    "ILL/Sources/Cheat Sheets/Shodan Cheat Sheet Filters.md",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_NYcap_left_5.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_NYcap_left_4.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_NYcap_left_3.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_NYcap_left_2.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_NYcap_left_1.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_dogscage_left_6.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_dogscage_left_5.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_dogscage_left_4.png",
+    "ILL/Ops/op_mako_eyes/op_mako-eyes/attachements/tineye_dogscage_left_3.png",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
+  "obsidian-prism-theme@@dark-mark-highlight-style": "pt-highlight-style-borderandfilled-dt",
+  "obsidian-prism-theme@@pt-titlebar-hide-text": false,
+  "obsidian-prism-theme@@status-bar-text-color-dt": "pt-status-bar-text-light-dt",
+  "obsidian-prism-theme@@pt-disable-blur": false,
+  "obsidian-prism-theme@@pt-custom-vault-banner": false,
+  "obsidian-prism-theme@@status-bar-preset-dt": "pt-status-bar-custom-dt",
+  "obsidian-prism-theme@@scroll-bar-size": 6,
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@pt-icons-accent": true,
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-custom-dt",
+  "obsidian-prism-theme@@color-accent-base-dt": "#413C5C",
+  "obsidian-prism-theme@@color-accent-tint-dt": "#170091",
+  "obsidian-prism-theme@@color-accent-text-dt": "#FFFFFF",
+  "obsidian-prism-theme@@link-internal-color-dt": "var(--link-internal-custom-color-dt)",
+  "obsidian-prism-theme@@link-external-color-dt": "var(--link-external-custom-color-dt)",
+  "obsidian-prism-theme@@link-internal-custom-color-dt": "#F0FF00",
+  "obsidian-prism-theme@@link-external-custom-color-dt": "#F55E5E"
+}

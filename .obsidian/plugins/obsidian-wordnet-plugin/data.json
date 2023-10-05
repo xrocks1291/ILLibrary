@@ -1,0 +1,6 @@
+{
+  "enableRibbon": true,
+  "slashCommandEnabled": false,
+  "slashCommandShortcut": ";;",
+  "insertTemplate": "**{term}**\n{definition}\n"
+}

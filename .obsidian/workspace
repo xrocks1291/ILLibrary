@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "320668bf7c1e460b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af65678ff0227e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "7h3h4ckv157 - 1575875803744591872/7h3h4ckv157 - 1575875803744591872.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7a1bea9ea02fd58f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mishadavinci - 1576572191813955585/mishadavinci - 1576572191813955585.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ff5404406ec7edbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aacle_ - 1578633704825847809/Aacle_ - 1578633704825847809.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "84556a3301fdf435",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rhynorater - 1579499221954473984/Rhynorater - 1579499221954473984.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "3de8dc23b8e891b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mawg0ud - 1581576969283506177/Mawg0ud - 1581576969283506177.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a885a6ef2e27856",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b60a99bbcc1873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ccea789dbbd7ec",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c21766803db7f7c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76726d57efd9332e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sans",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "597b377fed8f7033",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277
+  },
+  "right": {
+    "id": "66f8011ce2e3f5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5d3cd70f4a09c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39693f99323eaef3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "375b59f98dc2018e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mawg0ud - 1581576969283506177/Mawg0ud - 1581576969283506177.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c14216ec71e22612",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mawg0ud - 1581576969283506177/Mawg0ud - 1581576969283506177.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddb0eb1e2e993ffe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f359290b6c5205f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mawg0ud - 1581576969283506177/Mawg0ud - 1581576969283506177.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237,
+    "collapsed": true
+  },
+  "active": "3de8dc23b8e891b3",
+  "lastOpenFiles": [
+    "Rhynorater - 1579499221954473984/Rhynorater - 1579499221954473984.md",
+    "Aacle_ - 1578633704825847809/Aacle_ - 1578633704825847809.md",
+    "mishadavinci - 1576572191813955585/mishadavinci - 1576572191813955585.md",
+    "7h3h4ckv157 - 1575875803744591872/7h3h4ckv157 - 1575875803744591872.md",
+    "Untitled 2.md",
+    "Attacktive Directory - THM.md",
+    "7h3h4ckv157 - 1576612336902627328/7h3h4ckv157 - 1576612336902627328.md",
+    "THM - Authentication Bypass.md",
+    "Walking an Application - THM.md",
+    "Vulnversity - THM.md"
+  ]
+}

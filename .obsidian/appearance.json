@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 14,
+  "cssTheme": "Prism",
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Quicksand Light",
+  "textFontFamily": "Roboto Mono",
+  "monospaceFontFamily": "Roboto Mono",
+  "accentColor": "#b4a6e2",
+  "nativeMenus": false
+}
