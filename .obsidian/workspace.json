@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5543341ab000eb06",
+        "id": "aaa975306fe9df3b",
         "type": "tabs",
         "children": [
           {
-            "id": "1c198a3e66d5e13e",
+            "id": "9e64c287ca029782",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -190,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c198a3e66d5e13e",
+  "active": "9e64c287ca029782",
   "lastOpenFiles": [
     "ILLibrary",
     "Hacking_CyberSec/CyberSec/Cybersecurity for Small Networks A No-Nonsense Guide for the Reasonably Paranoid.epub",
