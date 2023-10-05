@@ -11,7 +11,7 @@
             "id": "1c198a3e66d5e13e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5106964111328
+    "width": 475.5106964111328
   },
   "right": {
     "id": "66f8011ce2e3f5ad",
@@ -187,11 +187,10 @@
       "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-tweet-to-markdown:Tweet to Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48799120dc0275a3",
+  "active": "1c198a3e66d5e13e",
   "lastOpenFiles": [
     "ILLibrary",
     "Hacking_CyberSec/CyberSec/Cybersecurity for Small Networks A No-Nonsense Guide for the Reasonably Paranoid.epub",
