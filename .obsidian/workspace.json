@@ -11,8 +11,10 @@
             "id": "9e64c287ca029782",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "SCADA_ICS/Industrial Cybersecurity. Efficiently monitor the cybersecurity posture of your ICS environment.pdf"
+              }
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SCADA_ICS/Industrial Cybersecurity. Efficiently monitor the cybersecurity posture of your ICS environment.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SCADA_ICS/Industrial Cybersecurity. Efficiently monitor the cybersecurity posture of your ICS environment.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SCADA_ICS/Industrial Cybersecurity. Efficiently monitor the cybersecurity posture of your ICS environment.pdf"
+              }
             }
           },
           {
@@ -190,7 +196,7 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "c21766803db7f7c1",
+  "active": "9e64c287ca029782",
   "lastOpenFiles": [
     "SCADA_ICS/Blue Economy and Smart Sea Transport Systems Maritime Security.pdf",
     "SCADA_ICS/Secure and Trustworthy Transportation Cyber-Physical Systems.pdf",
